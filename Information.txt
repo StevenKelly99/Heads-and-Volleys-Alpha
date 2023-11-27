@@ -1,0 +1,3 @@
+Here is the basic gameplay functionality of our game. It is not a final product as we still have to work out our environment and refine gameplay etc.
+
+HINT* Use SHIFT to increase movement speed!
